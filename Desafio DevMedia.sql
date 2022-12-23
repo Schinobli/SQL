@@ -1,3 +1,4 @@
+-- https://www.devmedia.com.br/desafio-sql/1476
 -- usando base curso
 use curso
 -- criando tabelas 
