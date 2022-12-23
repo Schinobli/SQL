@@ -13,11 +13,11 @@ fone varchar(11) not null,
 codigo_cliente int not null,
 foreign key (codigo_cliente) references clientes_desafio(codigo));
 
--- inserindo valores de clientes e e telefones ficticios
+-- inserindo valores de clientes e telefones ficticios
 insert into clientes_desafio (nome)
 	values ('Pedro Antonio');
 insert into clientes_desafio (nome)
-	values ('Pedro José');
+	values ('Pedro JosÃ©');
 insert into clientes_desafio (nome)
 	values ('Maria Assis');
 insert into clientes_desafio (nome)
@@ -40,7 +40,7 @@ insert into telefones_desafio (tipo, fone, codigo_cliente)
 insert into telefones_desafio (tipo, fone, codigo_cliente)
 	values ('FAX', '4622456585', 3);
 
--- Mostrar telefones  de cada pessoa 
+-- Mostrar telefones de cada pessoa 
 
 select
 	cd.nome
