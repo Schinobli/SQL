@@ -44,9 +44,9 @@ insert into telefones_desafio (tipo, fone, codigo_cliente)
 
 select
 	cd.nome
-   ,td_res.fone as residencial
-   ,td_cel.fone as celular
-   ,td_fax.fone as fax
+	,td_res.fone as residencial
+   	,td_cel.fone as celular
+  	,td_fax.fone as fax
 from clientes_desafio cd
 left join telefones_desafio td_res
 	on td_res.codigo_cliente = cd.codigo
