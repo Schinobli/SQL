@@ -2,4 +2,5 @@
 # ou desafios que eu me propus a desenvolver.
 #
 #
-# Atualmente estou cursando um curso na Udemy Banco de dados Expert: Linguagem SQL e Administração com o professor André Rosa (Business Intelligence | MCT | MCSA | MCP), # com 165 aulas totais (até agora) e mais de 34 horas/aulas, desenvolvido com SSMS 2014.
+# Atualmente estou cursando um curso na Udemy Banco de dados Expert: Linguagem SQL e Administração com o professor André Rosa (Business Intelligence | MCT | MCSA | MCP),
+# com 165 aulas totais (até agora) e mais de 34 horas/aulas, desenvolvido com SSMS 2014.
