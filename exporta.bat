@@ -1,0 +1,2 @@
+bcp CLIENTES OUT "C:\Users\lucas\OneDrive\Documentos\SQL Server Management Studio\carga\CLIOUT_PIPE.TXT" -o "C:\Users\lucas\OneDrive\Documentos\SQL Server Management Studio\carga\CLIOUT_PIPE.LOG" -S DESKTOP-S7BFB3E\SQLEXPRESS -d curso -T -r "\n" -t "|" -c
+PAUSE 

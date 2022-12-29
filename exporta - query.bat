@@ -1,0 +1,2 @@
+bcp "select * from curso.dbo.clientes" QUERYOUT "C:\Users\lucas\OneDrive\Documentos\SQL Server Management Studio\carga\CLIOUT_QUERY.TXT" -o "C:\Users\lucas\OneDrive\Documentos\SQL Server Management Studio\carga\CLIOUT_QUERY.LOG" -S DESKTOP-S7BFB3E\SQLEXPRESS -T -r "\n" -t "|" -c
+PAUSE 

@@ -1,0 +1,2 @@
+bcp CURSO.DBO.CLIENTES2 IN "C:\Users\lucas\OneDrive\Documentos\SQL Server Management Studio\carga\CLIOUT.TXT" -o "C:\Users\lucas\OneDrive\Documentos\SQL Server Management Studio\carga\CLIIN.LOG" -S DESKTOP-S7BFB3E\SQLEXPRESS -T -c
+PAUSE
